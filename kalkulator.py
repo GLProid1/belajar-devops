@@ -9,9 +9,8 @@ def hitung_luas_persegi_panjang(panjang: int, lebar: int) -> int:
     
     Returns:
         int: Hasil perkalian panjang dan lebar
-  """
-  
-    return (panjang * lebar)
+    """
+    return panjang * lebar
 
 def main():
     """Fungsi utama untuk menjalankan program"""
@@ -20,3 +19,4 @@ def main():
   
 if __name__ == "__main__":
     main()
+  
