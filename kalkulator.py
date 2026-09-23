@@ -1,4 +1,4 @@
-"""Modul sederhana untuk demostrasi Pylint quality gate"""
+"""Modul sederhana untuk demostrasi Pylint Quality Gate"""
 
 def hitung_luas_persegi_panjang(panjang: int, lebar: int) -> int:
   """Fungsi untuk menghitung luas persegi panjang
